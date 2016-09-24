@@ -5,3 +5,9 @@ Git is free software.
 
 这是一个关于使用git的练习
 我以后要多多使用啊！！
+
+中文乱码
+
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage
